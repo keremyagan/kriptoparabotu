@@ -1,6 +1,8 @@
 # kriptoparabotu-binance
 Binance borsasında al-sat için kullanabileceğiniz bottur.
 
+Uygulama Dosyası sekmesinde uygulamanın .exe dosyasını bulabilirsiniz.
+
 Lisans Kodu:DENEME
 
 Uygulama Tanıtımına Ait Video:https://disk.yandex.com.tr/i/IngCqY7KLDW1-A
