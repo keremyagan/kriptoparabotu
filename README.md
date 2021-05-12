@@ -1,4 +1,4 @@
-# kriptoparabotu
+# kriptoparabotu-binance
 Binance borsasında al-sat için kullanabileceğiniz bottur.
 
 Lisans Kodu:DENEME
